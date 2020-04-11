@@ -9,10 +9,10 @@ The first dataset is a subset of real data from the [Million Song Dataset](http:
 ## Files in the repository
 
 
-* **[data](data)**: Raw data (JSON)
-* **[create_tables.py](create_tables.py)**: (re-)Create database and tables
-* **[etl.py](etl.py)**: Fill the database
-* **[sql_queries.py](sql_queries.py)**: Query patterns
+* **data**: Raw data (JSON)
+* **create_tables.py**: (re-)Create database and tables
+* **etl.py**: Fill the database
+* **sql_queries.py**: Query patterns
 
 ## Run scripts
 
