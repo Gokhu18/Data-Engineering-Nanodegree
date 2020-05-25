@@ -16,6 +16,7 @@ This data comes from the US National Tourism and Trade Office. A data dictionary
 
 ### Project tree
 
+```
 ├── Capstone Project.ipynb
 ├── dags
 │   └── immigration_dag
@@ -35,4 +36,4 @@ This data comes from the US National Tourism and Trade Office. A data dictionary
 │       ├── stage_redshift_from_s3.py
 │       └── stage_redshift.py
 └── README.md
-
+```
